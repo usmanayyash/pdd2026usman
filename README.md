@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Oil Palm Ripeness Classifier — Web App
 
 Web app Streamlit untuk model penelitian:
@@ -122,3 +123,7 @@ Raspberry Pi) menggunakan tool seperti `tegrastats`/`jtop` (Jetson) atau
   jika training menggunakan normalisasi berbeda (mis. min-max 0–1 saja)
 - **Tambah info metadata gambar (GPS, timestamp)** untuk keperluan "field
   validation": bisa ditambahkan melalui EXIF data dari `Pillow`
+=======
+# pdd2026usman
+pdd usman tahun 2026
+>>>>>>> 222a125ddae72c4d87e611afb815ebdb18cd0d23
